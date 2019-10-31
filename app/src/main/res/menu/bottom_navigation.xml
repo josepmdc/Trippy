@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_my_trips"
+        android:icon="@drawable/ic_airplane"
+        android:name="@string/my_trips"
+        android:title="@string/my_trips"/>
+
+
+    <item
+        android:id="@+id/nav_my_backpack"
+        android:icon="@drawable/ic_backpack"
+        android:name="@string/my_trips"
+        android:title="@string/my_backpack"/>
+
+    <item
+        android:id="@+id/nav_my_account"
+        android:icon="@drawable/ic_user"
+        android:name="@string/my_trips"
+        android:title="@string/my_account"/>
+
+</menu>
