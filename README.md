@@ -1,0 +1,2 @@
+# Trippy
+Manage your trips
